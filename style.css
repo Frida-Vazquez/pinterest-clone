@@ -111,8 +111,9 @@ header nav{
     margin-top: 80px;
 }
 
+/*codigo para modificar imagenes*/
 .imagenes{
-    columns: 7 200px;
+    columns: 6 150px;
     margin: auto;
 }
 
